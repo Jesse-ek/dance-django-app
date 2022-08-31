@@ -1,3 +1,11 @@
+/imgs/
+/js/
+/pedrovirtualenvironment/
+/webfonts/
+/db.sqlite3
+/css/
+
+
 # Python
 *.pyc
 *~
@@ -24,8 +32,3 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
-imgs/
-js/
-pedrovirtualenvironment/
-webfonts/
-db.sqlite3
